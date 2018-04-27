@@ -5,5 +5,5 @@ Ever stumbled upon a problem where you couln't tell if the number is zero? Let m
 ```C#
 using static IsZero;
 
-IsZero.Check(number);
+IsZero.Check(number); //returns true if number is 0
 ```
