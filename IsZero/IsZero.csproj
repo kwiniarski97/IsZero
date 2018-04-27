@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.0</TargetFramework>
+    <Authors>https://github.com/kwiniarski97</Authors>
+    <Company>https://github.com/kwiniarski97</Company>
+    <Description>Ever stumbled upon a problem where you couln't tell if the number is zero? Let me help you.</Description>
+    <Copyright>GNU GPL v3</Copyright>
+    <PackageLicenseUrl>https://www.gnu.org/licenses/gpl-3.0.en.html</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/kwiniarski97/IsZero</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/kwiniarski97/IsZero/master/IsZero/icon.ico</PackageIconUrl>
+    <RepositoryUrl>https://github.com/kwiniarski97/IsZero</RepositoryUrl>
+    <PackageTags>is, zero, is-zero, iszero</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
